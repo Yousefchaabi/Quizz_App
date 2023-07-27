@@ -1,0 +1,87 @@
+[
+  {
+    "title": " What does HTML stand for ?",
+    "answer_1": "Hyper Text Markup Language",
+    "answer_2": "Hot Mail",
+    "answer_3": "How To Make Lasagna",
+    "answer_4": "How To Make Language",
+    "right_answer": "Hyper Text Markup Language"
+  },
+
+  {
+    "title": "How many sizes of headers are available in HTML by default ?",
+    "answer_1": "1",
+    "answer_2": "5",
+    "answer_3": "6",
+    "answer_4": "4",
+    "right_answer": "6"
+  },
+
+  {
+    "title": "What are the types of lists available in HTML ?",
+    "answer_1": "Ordered, Unordered Lists",
+    "answer_2": "Bulleted, Numbered Lists",
+    "answer_3": "Named, Unamed Lists",
+    "answer_4": "loop, loop in lists",
+    "right_answer": "Ordered, Unordered Lists"
+  },
+
+  {
+    "title": "HTML files are saved by default with the extension ?",
+    "answer_1": ".html",
+    "answer_2": ".h",
+    "answer_3": ".ht",
+    "answer_4": ".html5",
+    "right_answer": ".html"
+  },
+
+  {
+    "title": "We enclose HTML tags within ?",
+    "answer_1": "{ }",
+    "answer_2": "! !",
+    "answer_3": "< >",
+    "answer_4": "<! >",
+    "right_answer": "< >"
+  },
+
+  {
+    "title": "How Can We Include External Page Inside Our HTML Page ?",
+    "answer_1": "By Using Include in HTML",
+    "answer_2": "By Using Load In HTML",
+    "answer_3": "By Using iFrame Tag",
+    "answer_4": "By using link tag",
+    "right_answer": "By Using iFrame Tag"
+  },
+  {
+    "title": "What Is The Tag That Not Exists in HTML ?",
+    "answer_1": "<object>",
+    "answer_2": "<basefont>",
+    "answer_3": "<abbr>",
+    "answer_4": "All Tags Is Exists in HTML",
+    "right_answer": "All Tags Is Exists in HTML"
+  },
+  {
+    "title": "How We Specify Document Type Of HTML5 Page ?",
+    "answer_1": "<DOCTYPE html>",
+    "answer_2": "<DOCTYPE html5>",
+    "answer_3": "<!DOCTYPE html5>",
+    "answer_4": "<!DOCTYPE html>",
+    "right_answer": "<!DOCTYPE html>"
+  },
+  {
+    "title": "What Is The Element Thats Not Exists in HTML5 Semantics ?",
+    "answer_1": "<article>",
+    "answer_2": "<section>",
+    "answer_3": "<blockquote>",
+    "answer_4": "<aside>",
+    "right_answer": "<blockquote>"
+  },
+  {
+    "title": "In HTML Can We Use This Way To Add Attributes ?",
+    "answer_1": "<div class='class-name'>",
+    "answer_2": "<div class=class-name>",
+    "answer_3": "<div class=\"class-name\">",
+    "answer_4": "All Is Right",
+    "right_answer": "All Is Right"
+  }
+]
